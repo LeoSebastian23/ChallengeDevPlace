@@ -1,0 +1,21 @@
+1- El nodo A
+2- Hay dos caminos. AENP - AENQ
+3- Si
+4- Los nodos J - I - C - A
+5- Los nodos E - A 
+6- Ninguno
+7- H - L - M - P - Q  
+8- Altura: 1 
+9- Altura: 4
+10- Profundidad: 3
+11- El nodo E 
+12- No
+13- Si
+14- No
+15- Izquierda: F - I || Derecha: N
+16- Tiene 4 hijos.
+17- preorden: A-B-F-G-H-C-I-J-K-L-M-D-E-N-P-Q
+    postorden: H-G-F-B-L-M-K-J-I-C-D-P-Q-N-E-A
+    inorden: G-F-H-B-A-I-C-L-K-M-J-D-P-N-Q-E
+
+Disculpen si hay respuestas incorrectas, este tema no lo sabia asique investigue por mi cuenta para resolver los ejercicios.
